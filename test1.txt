@@ -1,10 +1,1 @@
- Volume in drive C is Amadeus
- Volume Serial Number is 4A0C-0440
-
- Directory of C:\Users\zrahman\Desktop\MyProject
-
-18/04/2019  11:13    <DIR>          .
-18/04/2019  11:13    <DIR>          ..
-18/04/2019  11:13                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  107,647,852,544 bytes free
+Change 1
